@@ -3,7 +3,7 @@
 ![슬라이드1](https://github.com/juno-bara/SHINHAN_AI/assets/124761676/355cd89c-12fb-46e3-a3d3-1b47a89e8313)
 ![슬라이드2](https://github.com/juno-bara/SHINHAN_AI/assets/124761676/9a80923d-901f-4808-888d-d37697af6445)
 ![슬라이드3](https://github.com/juno-bara/SHINHAN_AI/assets/124761676/201cfa19-08d2-46d7-b987-7c13945d6a1c)
-![슬라이드4](https://github.com/juno-bara/SHINHAN_AI/assets/124761676/7188f5c0-7908-4816-b65d-6bb407e2be33)
+
 ![슬라이드5](https://github.com/juno-bara/SHINHAN_AI/assets/124761676/9857d8aa-843b-4c08-ae6b-92a8ea24ea57)
 ![슬라이드6](https://github.com/juno-bara/SHINHAN_AI/assets/124761676/c97728a6-3903-43fd-85a4-6722c5b38a1c)
 ![슬라이드7](https://github.com/juno-bara/SHINHAN_AI/assets/124761676/c5843bc1-c3a0-4a20-9443-c124b621f6d2)
